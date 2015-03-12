@@ -63,4 +63,4 @@ anyways, i started out in windows shell script and realized regexes would make p
 
 ##Resolution
 
-so as it turns out, the task scheduler runs processes in a different user space or something which dicks up ssh-add and also the ability to set envs.  I finally FALED THE CHALLENGE OF DOING IT THE POWERSHELL WAY and said fuck it i'll do it in python.  Minutes later I had it running, if you want the script here's a gist.
+so as it turns out, the task scheduler runs processes in a different user space or something which dicks up ssh-add and also the ability to set envs.  I finally FALED THE CHALLENGE OF DOING IT THE POWERSHELL WAY and said fuck it i'll do it in python.  Minutes later I had it running, if you want the script [here's a gist](https://gist.github.com/romnempire/290b6bc10841a1d8aba5).
