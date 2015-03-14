@@ -14,3 +14,5 @@ Now, the crux of the message - why is this blag shitty?  I have, for some time, 
 tl;dr - fuck it, ship it.
 
 [shitty powershell notes](shitty_powershell_notes)
+
+[polymorphism](polymorphism)
