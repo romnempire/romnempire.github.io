@@ -16,3 +16,5 @@ tl;dr - fuck it, ship it.
 [shitty powershell notes](shitty_powershell_notes)
 
 [polymorphism](polymorphism)
+
+[yavascript](yavascript)
