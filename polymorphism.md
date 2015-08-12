@@ -27,7 +27,7 @@ so now let's look at a java program with similar functionality.
 
     public class add1 implements adder() {
         public add(int i) {
-            return i++;
+            return i+1;
         }
     }
 
